@@ -1,0 +1,25 @@
+{
+  "name": "vephito-school-link",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vephito/school-link.git"
+  },
+  "bin": {
+    "school": "index.js"
+  },
+  "author": "vephito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vephito/school-link/issues"
+  },
+  "homepage": "https://github.com/vephito/school-link#readme",
+  "dependencies": {
+    "puppeteer": "^20.7.4"
+  }
+}
